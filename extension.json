@@ -1,0 +1,14 @@
+{
+    "builtin": true,
+    "default_enabled": false,
+    "type": "extension",
+    "rocket_mode_compatible": "True",
+    "name": "revit-mcp-clean",
+    "description": "Minimal MCP server for Revit ↔ Claude communication via pyRevit Routes.",
+    "author": "",
+    "author_profile": "",
+    "url": "",
+    "website": "",
+    "image": "",
+    "dependencies": []
+}
